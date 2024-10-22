@@ -1,4 +1,7 @@
 body {
-    background-color: rgb(112, 237, 198);
+    background-color: rgb(8, 202, 40);
     color: rgb(22, 5, 5);
+}
+section{
+    background-color: blueviolet;
 }
