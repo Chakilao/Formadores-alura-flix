@@ -12,6 +12,7 @@ section{
     justify-content: center;
 }
 .chamada-texto{
-    img{height: 200px;}
-   margin-right: 5%;
+    margin-right: 5%;
 }
+    img{height: 200px;}
+    .categoria-video{display: flex;}
