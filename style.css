@@ -2,19 +2,25 @@ body {
     background-color: rgb(183, 255, 0);
     color: rgb(22, 5, 5);
 }
-section{
+
+section {
     background-color: rgb(197, 8, 255);
     padding-top: 10%;
     padding-bottom: 10%;
-    display:flex;
+    display: flex;
     justify-content: center;
 }
-.chamada-texto{
+
+.chamada-texto {
     margin-right: 5%;
 }
-    img{height: 200px;}
-    
-    .categoria-video{display: flex;
+
+img {
+    height: 200px;
+}
+
+.categoria-video {
+    display: flex;
     overflow-x: auto;
     gap: 40px;
-    }
+}
