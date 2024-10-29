@@ -16,5 +16,5 @@ section{
     
     .categoria-video{display: flex;
     overflow-x: auto;
-    gap: 10px;
+    gap: 40px;
     }
